@@ -18,7 +18,7 @@ function App() {
         I am currently seeking a Summer 2020 Internship!
         </p><br/>
 
-        <ButtonToolbar >
+        <ButtonToolbar>
           <Button href="" variant="light" size="lg" className="btn-space">About Me</Button>
           <Button href="" variant="light" size="lg" className="btn-space">Projects</Button>
           <Button href={Pdf} variant="light" size="lg" className="btn-space">Resume</Button>
